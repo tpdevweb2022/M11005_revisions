@@ -12,17 +12,19 @@ PS: Le **\<h1\>** doit être centré et de couleur **#0a9396**
 ### Exercice 2 : Les tableaux - M11005-2.php
 
 Créer et déclarer un tableau PHP avec les informations suivantes :
-| | id | first_name | last_name | age | genre
-| :----------: | :----: | :-----: | :--: | :----: | :----: | :--: | :--: |
-| **EM001** | 3 | Claude | Basset | 54 | "M"
-| **EM005** | 6 | Polly | Smith | 41 | "F"
-| **EM065** | 13 | Nabil | Bensaoud | 34 | "M"
+
+|           | id  | first_name | last_name | age | genre |
+| :-------: | :-: | :--------: | :-------: | :-: | :---: |
+| **EM001** |  3  |   Claude   |  Basset   | 54  |  "M"  |
+| **EM005** |  6  |   Polly    |   Smith   | 41  |  "F"  |
+| **EM065** | 13  |   Nabil    | Bensaoud  | 34  |  "M"  |
 
 Puis ajouter via la méthode de votre choix les 2 employés suivants :
-| | id | first_name | last_name | age | genre
-| :----------: | :----: | :-----: | :--: | :----: | :----: | :--: | :--: |
-| **EM078** | 24 | Clyde | Powell | 52 | "M"
-| **EM095** | 32 | Emily | Goodwall | 47 | "F"
+
+|           | id  | first_name | last_name | age | genre |
+| :-------: | :-: | :--------: | :-------: | :-: | :---: |
+| **EM078** | 24  |   Clyde    |  Powell   | 52  |  "M"  |
+| **EM095** | 32  |   Emily    | Goodwall  | 47  |  "F"  |
 
 Afficher **toutes les informations** de Clyde Powell dans le **\<body\>** du fichier M11005-2.php
 

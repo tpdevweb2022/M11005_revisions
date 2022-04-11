@@ -31,10 +31,7 @@
             <a href="M11005-2.php">Exercice 2 : Les arrays</a>
         </div>
         <div>
-            <a href="M11005-3.php">Exercice 3 : Les opérateurs</a>
-        </div>
-        <div>
-            <a href="M11005-4.php">Exercice 4 : Les conditions</a>
+            <a href="M11005-3.php">Exercice 3 : Les conditions</a>
         </div>
     </div>
 </body>
