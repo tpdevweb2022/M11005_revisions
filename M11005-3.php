@@ -9,7 +9,9 @@
 </head>
 
 <body>
-
+    <div>
+        <a href="/">Retour à l'index</a>
+    </div>
 </body>
 
 </html>
