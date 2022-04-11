@@ -36,9 +36,6 @@
         <div>
             <a href="M11005-4.php">Exercice 4 : Les conditions</a>
         </div>
-        <div>
-            <a href="M11005-5.php">CAS PRATIQUE</a>
-        </div>
     </div>
 </body>
 
